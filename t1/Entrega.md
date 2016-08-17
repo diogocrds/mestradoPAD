@@ -1,7 +1,9 @@
 # T1 - Aquecimento de PAD
 
 Mestrado em Ciência da Computação
+
 Programação de Alto Desempenho - Profa. Adrea Charão
+
 Diogo Cardoso - 201660655
 
 **Programa utilizado**: BOTS versão 1.1.2 [link](https://pm.bsc.es/projects/bots/downloads)
