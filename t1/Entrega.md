@@ -10,6 +10,7 @@ Diogo Cardoso - 201660655
 
 ## Fibonacci
 **Entrada:** 20
+
 **1 Thread**
   - Execução 1: 0,00464100 s
   - Execução 2: 0,00319500 s
